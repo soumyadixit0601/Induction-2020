@@ -15,4 +15,4 @@ The fourth and the final week will be all about learning app development. You wi
 Don't all these sound very interesting!<br>
 Come and explore!<br>
 
-p.s. - Throughout all these four weeks you will be given assignments related to all the above fields in the respective weeks and you have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
+<b>p.s.</b> - Throughout all these four weeks you will be given assignments related to all the above fields in the respective weeks and you have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
