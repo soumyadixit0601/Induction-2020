@@ -9,11 +9,10 @@ We will be right by your side, while u strech the vast ocean of what is still, y
 
 Will it be easy?<br>
 NO.<br>
-
 Worth it?<br>
 Definitely.<br>
 
-Given below is link that'll try to answer some whys and whats, that might be popping up in your head right now. Well give it a look.
+Given below is a link that'll try to answer some whys and whats, that might be popping up in your head right now. Well give it a look.
 
 [I'll answer your whats and whys](https://www.youtube.com/watch?v=iR5WIknxdkY&start=13 )
 <br>
