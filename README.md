@@ -1,5 +1,4 @@
-## "If you talk about it, it's a dream, if you envision it ,it's possible,but if you schedule it ,it's real ."
-## -Tony Robbins 
+## "If you talk about it, it's a dream, if you envision it, it's possible,but if you schedule it, it's real ."<br> -Tony Robbins 
 
 As we all are aware of the upcoming induction program of  Enigma  -the coding club of our college, here is a brief of all those things that are to be done within the span of a month. It is a well planned  path for all the newbies out there to groom up their coding skills.<br>
 The whole process is to be continued for a month starting from 18th of May where stuffs are divided into four parts.<br>
