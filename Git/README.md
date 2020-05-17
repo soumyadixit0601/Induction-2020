@@ -15,4 +15,11 @@ Definitely.<br>
 
 Given below is link that'll try to answer some whys and whats, that might be popping up in your head right now. Well give it a look.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'll answer your whats and whys](https://www.youtube.com/watch?v=iR5WIknxdkY&start=13 )
+<br>
+<br>
+<b> You're still here? Go n Watch it first </b>
+<br>
+okay! Now You're back and probably know git and github better than me. <br>
+Then i guess its time for your first task over here. head over [here](https://www.youtube.com/watch?v=iR5WIknxdkY&start=13) to complete this simple exercise.
+
