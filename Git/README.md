@@ -20,6 +20,10 @@ Given below is link that'll try to answer some whys and whats, that might be pop
 <br>
 <b> You're still here? Go n Watch it first </b>
 <br>
+<br>
 okay! Now You're back and probably know git and github better than me. <br>
-Then i guess its time for your first task over here. head over [here](https://www.youtube.com/watch?v=iR5WIknxdkY&start=13) to complete this simple exercise.
+Then i guess its time for your first task over here. head over [here](https://github.com/EnigmaVSSUT/Induction-2020/blob/master/Git/Instructions.txt) to complete this simple exercise.
+<br>
+<br>
+If you need any help in completing the Exercise, try referring to [this](https://github.com/SubhamPanigrahi/first-contributions) amazing Repository which teaches how to get started with contributing to the open source.
 
