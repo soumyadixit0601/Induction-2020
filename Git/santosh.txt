@@ -1,0 +1,6 @@
+hi there!!
+I am P V Santosh .
+I am currently  pursuing Btech degree in Computer science and engineering from Vssut , Burla.
+I am from Rourkela.
+
+Git is basically a  system that records changes to our files over time. 
