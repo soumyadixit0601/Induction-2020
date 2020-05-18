@@ -1,0 +1,4 @@
+Hello .... 
+This is chandrasekhar Jagannath Samanta , branch Computer Science and Engginering , 1st year 
+
+Git is a platform designed for coordinating work among programmers, it allows to share and keep an track of your work and your memebers work with a easy to use and clone option
