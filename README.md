@@ -21,4 +21,8 @@ The fourth and the final week will be all about learning app development. You wi
 Don't these sound very interesting?
 Come and explore!<br>
 <br>
+### TASK LIST
+- [ ] Task 1 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Git">Github Basics</a>
+
+<br>
 <b>P.S.</b>- Throughout the four weeks you will be given assignments related to all the above fields in the respective weeks and you will have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
