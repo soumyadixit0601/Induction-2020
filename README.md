@@ -1,4 +1,4 @@
-# Your Companion for the next few weeks to come.
+
 
 <b>"If you talk about it, it's a dream,
 if you envision it, it's possible, but if you schedule it, it's real."<br>

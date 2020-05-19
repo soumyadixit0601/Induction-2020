@@ -1,0 +1,5 @@
+Hi, this is Priyansh Khodiyar
+I am from Jharsuguda.
+
+Git informally in layman terms is time travel to previously written code through commit IDs. It helps to keep record of
+the code which we allow it to. It's awesome!

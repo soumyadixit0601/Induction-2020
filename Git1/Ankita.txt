@@ -1,0 +1,7 @@
+Hello.
+I am Ankita Misra.
+I am pursuing B.tech in Computer Science and Engineering at VSSUT,Burla.
+
+Git is a version control system which tracks the changes we make to the files.
+It makes collaboration easier by allowing changes from multiple people to be merged into one source.
+
