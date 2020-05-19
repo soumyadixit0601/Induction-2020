@@ -9,7 +9,7 @@ Such a problem is common when a group of devs work on a single project. Everybod
 <br>
 Well! how to solve it then? How to update our forked repo to the master?<br>
 <br>
-This is what you guys have to figure out today in todays [task]().<br>
+This is what you guys have to figure out today in todays [task](https://github.com/EnigmaVSSUT/Induction-2020/blob/master/Git2/Instructions.md).<br>
 <br>
 
 P.S. iF you have absolutely no idea where to begin, follow [this](https://www.youtube.com/watch?v=0fQuew5y_nA).
