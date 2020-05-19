@@ -1,0 +1,2 @@
+Hi! This is Sharon Kerketta from Rourkela pursuing a Bachlor's in Electrical and Electronics Engineering at VSSUT, Burla.
+Git is a type of version control system (VCS) that makes it easier in tracking changes to computer files and co-ordinating work on those files among multiple people.
