@@ -1,0 +1,5 @@
+hello, I am Ashutosh Khanduala.
+I am an Engineering student. I am pursuing my B.Tech in Electronics and Telecommunication Engineering.
+I am a learner with strong passion for self-improvement.
+
+This line is wrtten on dev branch using vim and is ready to be merged to master branch.
