@@ -1,0 +1,8 @@
+Hello everyone.
+This is Gourav Das. I am currently pursuing my Bachelor of Technology degree in Veer Surendra Sai University of Technology in the department of Electronics and Telecommunication Engineering.
+I belong from Jagatsinghpur.
+I am very much fond of coding and I believe that everything in this world can be coded and developed for desirable result.
+
+Git is a platform where various coders and developers edit changes into existing software for a better tomorrow and one can also track down the changes made to it.
+
+Thanks!
