@@ -5,7 +5,7 @@ Programming is fun, programming is an exercise for your brain, programming is a 
 
 Why Competitive Coding?
 
-Competitive coding teaches you how to think and improves logic. It is the most important and efficient way of enhancing your coding skills. Whether you’re a beginner or a pro, it doesn’t matter, anyone can practice on any level. Moreover, it will help you during job interviews since most of the software companies use coding contests to filter out students. Participating in CP contests makes you a desirable candidate for big companies like Google, Microsoft, Amazon, etc. You wouldn’t want to leave that opportunity, right? 😊 Go to this site to know more: https://www.redgreencode.com/12-reasons-to-study-competitive-programming/
+Competitive coding teaches you how to think and improves logic. It is the most important and efficient way of enhancing your coding skills. Whether you’re a beginner or a pro, it doesn’t matter, anyone can practice on any level. Moreover, it will help you during job interviews since most of the software companies use coding contests to filter out students. Participating in CP contests makes you a desirable candidate for big companies like Google, Microsoft, Amazon, etc. You wouldn’t want to leave that opportunity, right? :) Go to this site to know more: https://www.redgreencode.com/12-reasons-to-study-competitive-programming/
 
 
 How is Competitive Coding different from regular coding?
