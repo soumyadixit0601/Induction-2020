@@ -1,0 +1,9 @@
+Hello :)
+I am Pratik Kumar Panda.
+I am pursuing a B.Tech Degree in Computer Science and Engineering from Veer Surendra Sai University of Technology. 
+
+#About Git
+Git is a distributed version-control system for tracking changes in source code during software development.
+The purpose of Git is to manage a project, or a set of files, as they change over time. 
+Git stores this information in a data structure called a repository. 
+
