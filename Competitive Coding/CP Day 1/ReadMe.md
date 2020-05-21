@@ -46,7 +46,7 @@ If you have decided to go forward with CP, then here are a few steps to go about
 
 For more information refer to these sites: 
 
-https://www.geeksforgeeks.org/how-to-prepare-for-competitive-programming/
-https://codeforces.com/blog/entry/23054#problem-classifiers
+https://www.geeksforgeeks.org/how-to-prepare-for-competitive-programming/<br>
+https://codeforces.com/blog/entry/23054#problem-classifiers<br>
 https://www.hackerearth.com/practice/codemonk/
 
