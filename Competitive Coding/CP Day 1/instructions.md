@@ -1,6 +1,6 @@
 There will be 3 tasks for you for Day 1 of Competitive Coding, of which two of them are just to be read. Easy right? So, lets get started:
 
-TASK 1:
+<b>TASK 1:</b>
 
 Have a look at this problem.
 
@@ -12,7 +12,7 @@ and if you have no clue what exactly does the problem statement says and what ex
 https://www.codechef.com/viewsolution/33213157
 
 
-TASK 2:
+<b>TASK 2:</b>
 
 Well, once you guys are done with Task 1, We would suggest you to practive a little on some of the other questions. 
 You now know its a sport, and no-one gets better at it without practice. A LOT OF PRACTICE.
@@ -20,10 +20,10 @@ You now know its a sport, and no-one gets better at it without practice. A LOT O
 https://www.hackerrank.com/domains/algorithms
 
 
-TASK 3:   
+<b>TASK 3:   </b>
 
 Practices enough already? Want some fun?
 heres is our own private Competitive Contest hosted on HackerEarth. It'll be active from 9PM on 21st May for exactly 24 hours.
-PS. This is your graded task for today.
+<b>P.S.</b> This is your graded task for today.
 
 
