@@ -6,7 +6,7 @@ and errors faced and how to proceed further.
 Beginning with very simple and classic Competitive Coding questions, we will move on to solving higher difficulty level problems and 
 explaining some much required concepts on the way.
 
-You will be taught how to tackle the problem statements, to think in a logical way, to overcome certain mistakes that all programmers face 
+You will be learning how to tackle the problem statements, to think in a logical way, to overcome certain mistakes that all programmers face 
 in the beginning and to develop a habit of practicing competitive coding. At the same time, we will be giving you small tasks to test your
 knowledge and understanding. You will be judged on the basis of your performance in the tasks. 
 
