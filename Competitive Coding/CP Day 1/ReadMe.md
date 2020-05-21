@@ -1,24 +1,24 @@
-What is Competitive Coding?
+<b>What is Competitive Coding?</b>
 
 Programming is fun, programming is an exercise for your brain, programming is a mental sport and when this sport is held over the internet involving sport programmer as a contestant then it is called Competitive Programming (CP). Want to know more? Go through this awesome website: https://www.hackerearth.com/getstarted-competitive-programming/. It will totally be worth your time.
 
 
-Why Competitive Coding?
+<b>Why Competitive Coding?</b>
 
 Competitive coding teaches you how to think and improves logic. It is the most important and efficient way of enhancing your coding skills. Whether you’re a beginner or a pro, it doesn’t matter, anyone can practice on any level. Moreover, it will help you during job interviews since most of the software companies use coding contests to filter out students. Participating in CP contests makes you a desirable candidate for big companies like Google, Microsoft, Amazon, etc. You wouldn’t want to leave that opportunity, right? :) Go to this site to know more: https://www.redgreencode.com/12-reasons-to-study-competitive-programming/
 
 
-How is Competitive Coding different from regular coding?
+<b>How is Competitive Coding different from regular coding?</b>
 
 The motivation in CP is in forming the workable solution quickly (akin to solving a brain teaser) while in Real Programming, it is in the design and architecture aimed to solve a practical problem. Regular coding that we do, does not contain test cases or constraints or judges or time limits. CP does not contain statements like “Enter a number” or “The sum is”. People often face a lot of problems and errors while submitting programs that they think are correct but they turn out to be incorrect. Thus, we need to understand the difference and the correct way of writing CP codes and submitting them. We will be giving you an example of how to go about solving a sample CP question later but if you’re curious to know, go through this website: https://www.geeksforgeeks.org/how-to-begin-with-competitive-programming/
 
 
-Where to start?
+<b>Where to start?</b>
 
 There are multiple online platforms where you can start practicing CP. Some of the most commonly used are: CodeChef, Codeforces, HackerEarth, HackerRank, SPOJ, Codeforces, Topcoder, etc. Go to any one of these sites, choose a problem statement, choose your favourite programming language and start coding! :) Take a look at this site for further details: https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/
 
 
-Which programming language to use?
+<b>Which programming language to use?</b>
 
 There are many programming languages that you can use:
 1.	C++: This is the language that we highly recommend to use for CP. It’s fast, efficient, easy to use syntax, and also contains STL which can be really handy.
@@ -28,12 +28,12 @@ There are many programming languages that you can use:
 For the time being, you can use any of the languages during the induction process, but for professionalism, try to use C++.
 
 
-What problems are encountered during competitive coding?
+<b>What problems are encountered during competitive coding?</b>
 
 Some of the most common problems faced by programmers when they begin CP is the implementation and the errors. As mentioned earlier, CP has test cases, generated input, online judges and precise code which makes it different than regular coding. Also, your code must satisfy all the test cases and provide correct output for all the generated input in the particular time period and must not exceed the memory space specified. Sounds like a lot? Well, everything seems overwhelming in the beginning, but practice does make a man/woman perfect. :P Lastly, DO NOT GIVE UP! A large number of programmers give up during the initial stages of CP. You will face problems; errors and you will get frustrated at some point. Trust me, everyone does. But the thing here is to not give up and keep on trying and practicing till you succeed and get that “Correct Answer” when you submit your code. Motivated much? :D To learn more about it, go through this site: https://medium.com/@andreimargeloiu/how-to-prepare-for-competitive-programming-396d557e0c12
 
 
-How to proceed further?
+<b>How to proceed further?</b>
 
 If you have decided to go forward with CP, then here are a few steps to go about it:
 
@@ -44,7 +44,7 @@ If you have decided to go forward with CP, then here are a few steps to go about
 5.	Definitely give this site a look: https://www.codechef.com/guide-to-competitive-programming
 
 
-For more information refer to these sites: 
+<b>For more information refer to these sites: </b>
 
 https://www.geeksforgeeks.org/how-to-prepare-for-competitive-programming/<br>
 https://codeforces.com/blog/entry/23054#problem-classifiers<br>
