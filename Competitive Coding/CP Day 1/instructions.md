@@ -26,4 +26,6 @@ Practices enough already? Want some fun?
 heres is our own private Competitive Contest hosted on HackerEarth. It'll be active from 9PM on 21st May for exactly 24 hours.
 <b>P.S.</b> This is your graded task for today.
 
+https://www.hackerearth.com/cmpcding1
+
 
