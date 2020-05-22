@@ -15,7 +15,7 @@ The motivation in CP is in forming the workable solution quickly (akin to solvin
 
 <b>Where to start?</b>
 
-There are multiple online platforms where you can start practicing CP. Some of the most commonly used are: CodeChef, Codeforces, HackerEarth, HackerRank, SPOJ, Codeforces, Topcoder, etc. Go to any one of these sites, choose a problem statement, choose your favourite programming language and start coding! :) Take a look at this site for further details: https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/
+There are multiple online platforms where you can start practicing CP. Some of the most commonly used are: CodeChef, Codeforces, HackerEarth, HackerRank, SPOJ, Topcoder, etc. Go to any one of these sites, choose a problem statement, choose your favourite programming language and start coding! :) Take a look at this site for further details: https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/
 
 
 <b>Which programming language to use?</b>
