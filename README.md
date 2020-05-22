@@ -29,6 +29,5 @@ Come and explore!<br>
 
 - [ ] Task 3 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/blob/master/Git2/Instructions.md">Competitive Coding : Day 1</a>
 
-https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Competitive%20Coding/CP%20Day%201
 <br>
 <b>P.S.</b>- Throughout the four weeks you will be given assignments related to all the above fields in the respective weeks and you will have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
