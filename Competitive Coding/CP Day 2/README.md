@@ -12,4 +12,4 @@ Task 2 Shall be the same as yesterday. Go have a look [here](https://www.hackerr
 You can find more practice resources [here](https://github.com/SubhamPanigrahi/Induction-2020/blob/master/Competitive%20Coding/resources.md). And it'll be updated regularly, so dont forget to check it in regular intervals.
 <br><br><br>
 <b>Finally</b>
-Theres May Coof-Off on codechef in 2 days. Don't forget to participate. You'd love to see those stars growing in number on your profile. You can see the contest page[here](https://www.codechef.com/COOK118).
+Theres May Coof-Off on codechef in 2 days. Don't forget to participate. You'd love to see those stars growing in number on your profile. You can see the contest page [here](https://www.codechef.com/COOK118).
