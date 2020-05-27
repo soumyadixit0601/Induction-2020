@@ -3,7 +3,7 @@
 1. Setup up your workspace with a code editor of your choice.
 2. Update your current *forked repository* with respect to the ```origin-master```.
 2. Make yourself familiar with various HTML tags and their attributes.
-3. Thereafter, Recreate this sample 
+3. Thereafter, recreate this sample 
 <a href="https://cdn.discordapp.com/attachments/711603625583050854/714156999755038747/Screenshot_121.png">webpage</a>.
 <img src="https://cdn.discordapp.com/attachments/711603625583050854/714156999755038747/Screenshot_121.png"></img>
 4. Try to improvise it by adding more content and make it prettier.
