@@ -22,7 +22,14 @@ Don't these sound very interesting?
 Come and explore!<br>
 <br>
 ### TASK LIST
-- [ ] Task 1 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Git">Github Basics</a>
+- [X] Task 1 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/blob/master/Git1/Instructions.md">Github Basics</a>
+
+
+- [X] Task 2 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/blob/master/Git2/Instructions.md">Github Basics : Updating repo</a>
+
+- [X] Task 3 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Competitive%20Coding/CP%20Day%201">Competitive Coding : Day 1</a>
+
+- [X] Task 4 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/Competitive%20Coding/CP%20Day%202">Competitive Coding : Day 2</a>
 
 <br>
 <b>P.S.</b>- Throughout the four weeks you will be given assignments related to all the above fields in the respective weeks and you will have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
