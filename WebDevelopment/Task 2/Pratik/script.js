@@ -1,3 +1,4 @@
+/*eslint-env es6*/
 // Get Elements from the Page
 const btn = document.querySelector('.buttons');
 const body = document.querySelector('body');
