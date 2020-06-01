@@ -29,7 +29,7 @@ Instructions:
   You must have seen websites with light and dark modes where you can switch between them. Your task is to make something similar. 
   A webpage with a button which, when clicked, will change the background colour from white to black or from black to white. The sample
   images are given in the same folder for you to look at.
-  Try to include comments in your code so that it will be easier for us to understand what you did. You can modify the webpage in any way you want. 
+  Try to include comments in your code so that it will be easier for us to understand what you did. You can modify the webpage in any way you want.
   Make sure you have the basic functionality in your webpage that we require. 
   Hint: Search for eventListeners, functions and changing background colour in JS.
   
