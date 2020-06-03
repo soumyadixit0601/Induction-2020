@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)file:///C:/Users/aisectnew/Downloads/index%20(2).htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><style> 
+	h1{font-family:Curlz MT;font-size:50px;text-align: center;margin-top: 300px;color:rgb(234,134,54);font-family: "Harrington";}
+	form{margin-top:50px;margin-left:450px;}
+	body{background-color:black;}
+	input{font-size: 43px;margin-left:190px;font-family:"Giddyup Std";font-weight: bolder;  }
+
+</style>
+
+	</head><body id="ais"><h1 id="soumya">THEME SWITCHER</h1>
+	<title>mywebpage with javascript</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<form name="f">
+	<input type="button" value="White" name="but" onclick="changecol(but.value)">
+</form>
+	
+
+
+	<script>
+		/* if button text is black colour will be changed to black and viceversa */
+		var b;
+		function changecol(b)
+		{
+			
+ if(b=="Black")
+{
+document.getElementById("soumya").style.color='magenta'	;
+document.getElementById("ais").style.background = 'Black';
+f.but.value="White";
+}
+else if(b=="White")
+ {
+
+document.getElementById("ais").style.background = 'White';
+f.but.value="Black";
+} 
+
+ }
+</script>
+</body></html>
