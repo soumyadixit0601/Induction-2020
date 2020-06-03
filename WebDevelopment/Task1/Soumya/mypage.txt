@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<style>
+	body{margin-left:50px;background-size:contain;background-repeat: no-repeat;}
+	h5{font-family:Century Gothic;}
+	img{border-radius: 50%; position: relative;}
+	ul{margin:10px;}
+h3{margin-left:100px ;color:maroon;}
+</style>
+<head>
+	<title>
+		mypage
+	</title>
+	<h1>CORONA</h1>
+	<h5>Hi! I am Corona:)</h5>
+</head>
+<br>
+<body background="C:\Users\aisectnew\Desktop\soumya\picture.jpg">
+ <img src="C:\Users\aisectnew\Downloads\corona (1).jpg"height="200" width="200">
+ <br>
+<h3>Symptoms</h3>
+<ul>
+	<li>a runny nose</li>
+	<li>a headache</li>
+	<li>a cough</li>
+	<li>a fever</li>
+	<li>a sore throat</li></ul>
+	<h3>Precautions</h3>
+<ul>
+	<li>Wash your hand for 20 seconds</li>
+	<li>Rest and avoid overexertion</li>
+	<li>drink plenty of water</li>
+	<li>Social distancing</li>
+	<li>Take vitamin C and vegetables</li>
+	<li>Use mask</li>
+	<a href="https://www.thehindu.com/sci-tech/science/coronavirus-social-distancing-norms-of-6-feet-insufficient-virus-can-travel-nearly-20-feet-study/article31687126.ece" target="_blank">For details click Here</a>
+</ul>
+
+</body></html>
