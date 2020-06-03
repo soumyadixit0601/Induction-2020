@@ -1,6 +1,6 @@
-let button = document.querySelector('button');
+let btn = document.querySelector('button');
 
-button.addEventListener('click', changebg);
+btn.addEventListener('click', changebg);
 
 function changebg() {
     let element = document.body;
