@@ -1,3 +1,4 @@
+/*eslint-env es6*/
 const btn = document.querySelector('button');
 
 btn.addEventListener('click', changebg);
