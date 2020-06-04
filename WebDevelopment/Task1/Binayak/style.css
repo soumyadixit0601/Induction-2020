@@ -1,0 +1,60 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Balsamiq Sans', cursive;
+
+}
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("bg.jpg");
+	
+	background-size: cover;
+ 	background-position: center;
+}
+.n{
+	font-size: 40px;
+	text-align: center;
+	font-weight: 900;
+	margin: 20px 20px;
+	letter-spacing: 4px;
+}
+.s , .k , .f{
+	font-size: 30px;
+	text-align: center;
+	font-weight: 800;
+	margin: 20px 20px;
+	letter-spacing: 2px;
+}
+img{
+	height: 500px;
+	width: 500px;
+	border-radius: 10px;
+}
+
+ul{
+	list-style-type: none;
+
+}
+li{
+	letter-spacing: 2px;
+}
+.l{
+	text-align: center;
+	font-size: 25px;
+	font-weight: 700;
+	margin: 10px 10px;
+}
+.o{
+	font-size: 20px;
+	text-align: center;
+	font-weight: 800;
+	margin: 20px 20px;
+	letter-spacing: 2px;
+
+}
+.link{
+	text-decoration: none;
+	background: linear-gradient(to right,#833ab4,#fd1d1d,#fcb045 );
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+    
+}
