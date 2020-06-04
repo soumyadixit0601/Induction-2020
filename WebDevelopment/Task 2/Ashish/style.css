@@ -6,10 +6,11 @@ body{
     text-transform: uppercase;
 }
 /* Dark Theme Body Style */
-body.dark{
-    background-color: #0a091f;
-    color: aliceblue;
-}
+.dark-mode {                             
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  }
 /* Styles for Button */
 button{
     border: 4px red solid;
@@ -18,9 +19,6 @@ button{
     border-radius: 100%;
     background: transparent;
     color: red;
-}
-button:focus {
-    outline: none;
 }
 
 /* Other Styles */
