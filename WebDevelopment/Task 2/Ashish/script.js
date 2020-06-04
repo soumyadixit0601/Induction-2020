@@ -9,4 +9,3 @@ btn.addEventListener('click', () =>{
      // To change the button text
     (body.classList.contains('dark'))? btn.innerHTML =  'Light' : btn.innerHTML =  'Dark';
 });
-© 2020 GitHub, Inc.
