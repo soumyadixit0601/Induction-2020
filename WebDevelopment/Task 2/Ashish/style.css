@@ -1,0 +1,38 @@
+body{
+    background-color: #eee;
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+}
+/* Dark Theme Body Style */
+.dark-mode {                             
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  }
+/* Styles for Button */
+button{
+    border: 4px red solid;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background: transparent;
+    color: red;
+}
+
+/* Other Styles */
+.box{
+    border: 2px red solid;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+
+div{
+    margin: 50px;
+}
+
+img{
+    max-width: 200px;
+}
