@@ -1,0 +1,27 @@
+.bg{
+  background-color: rgb(238, 213, 245);
+}
+.title{
+  font-size:1cm;
+  text-align:center;
+}
+.subtitle{
+  font-size:0.7cm;
+  text-align:center;
+}
+img {
+  border: 5px solid rgb(112, 9, 230);
+}
+.button{
+  color:white;
+  font-size:0.6cm;
+  background-color:rgb(2, 1, 43);
+  height:70px;
+  width:200px;
+  border-color:black;
+  border-width: 5px;
+}
+.dark{
+  background-color: black;
+  color:white;
+}
