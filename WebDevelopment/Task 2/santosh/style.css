@@ -1,0 +1,22 @@
+body {
+    padding: 25px;
+    font-size: 25px;
+    background-color: aliceblue;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1,
+p {
+    font-family: cursive;
+    padding: 10px;
+    box-shadow: aqua;
+}
+
+button:hover {
+    cursor: pointer;
+}
