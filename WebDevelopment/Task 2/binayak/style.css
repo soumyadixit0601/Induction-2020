@@ -1,0 +1,15 @@
+body{
+
+    margin-top: 150px;
+    text-align: center;
+    padding: 25px;
+    background-color:chartreuse;
+    color: black;
+    font-size: 25px;
+}
+
+.drk {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+  }
