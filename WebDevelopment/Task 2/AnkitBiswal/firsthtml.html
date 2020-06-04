@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>theme switcher</title>
+        <style>
+            
+            .button {
+             display: inline-block;
+             padding: 15px 25px;
+             font-size: 24px;
+             cursor: pointer;
+             text-align: center;
+             text-decoration: none;
+             outline: none;
+             color: #fff;
+             background-color: #4CAF50;
+             border: none;
+             border-radius: 15px;
+             box-shadow: 0 9px #999;
+            }
+
+            .button:hover {background-color: #3e8e41}
+
+            .button:active {
+             background-color: #3e8e41;
+             box-shadow: 0 5px #666;
+             transform: translateY(4px);
+            }
+        </style>
+    </head>
+    <body>
+
+        <h1 style="color: deepskyblue;" style="font-style: normal;" style="font: bold;">THEME SWITCHER</h1>
+        <button onclick="changeColor()"  class="button">switch</button>
+        <script>
+            var place =0;
+            function changeColor() {
+                // your color list
+                var colorList = ["black","white"];
+                // set the color
+                document.body.style.backgroundColor = colorList[place]; 
+                place++;
+                // if place is greater than the list size, reset
+                if (place ===colorList.length) place=0; 
+            }
+        </script>
+        
+        
+        
+    </body>
+</html> 
