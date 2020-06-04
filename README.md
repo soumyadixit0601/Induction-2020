@@ -33,7 +33,7 @@ Come and explore!<br>
 
 - [X] Task 5 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/WebDevelopment/Task1">Web Development : Day 1</a>
 
-- [X] Task 6 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/WebDevelopment/Task2">Web Development : Day 2</a>
+- [X] Task 6 : <a href="https://github.com/EnigmaVSSUT/Induction-2020/tree/master/WebDevelopment/Task%202">Web Development : Day 2</a>
 
 <br>
 <b>P.S.</b>- Throughout the four weeks you will be given assignments related to all the above fields in the respective weeks and you will have to submit it to us by pushing your assignments using our very own Github. You are going to be continuously evaluated throughout the process. Stay tuned.
