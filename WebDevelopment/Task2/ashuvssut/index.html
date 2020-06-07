@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="Enigma-induction Task1" />
+        <meta name="keywords" content="Task1" />
+        <meta name="author" content="Ashutosh Khanduala @ashuvssut" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Rusty Steele</title>
+        <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap" rel="stylesheet"> 
+
+        <style>
+            
+            body{
+                margin: 0px; padding:0px; box-sizing: border-box;
+                text-align: center;
+                background-color: aqua;
+                color: black;
+                font-family: 'Montserrat', sans-serif;
+                line-height: 2rem;
+            }
+            .K9{
+                height:200px;
+                margin-top: 10px;
+                border-radius: 50%;
+            }
+            .List{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-wrap: nowrap;
+            }
+            ul{
+                text-align: center;
+                display: flex;
+                flex-wrap: wrap;
+
+            }
+            .List  {
+                display: flex;
+            }
+            li{
+                margin-left: 25px;
+            }
+            li:nth-child(1){
+                list-style: none;              
+            } 
+            @media screen and (max-width:680px) {
+                ul{
+                    margin: 0px 15%;
+                    text-align: left;
+                    display: block;
+                }
+                li{
+                    list-style:none;
+                }
+            } 
+            @media screen and (max-width:288px){
+               ul{
+                margin: 0px 10%;
+               }
+            }    
+            .footer{
+                background-color: #039c9c;
+                margin-top: 20px;
+                padding: 20px;
+            }
+            #theme-switcher{
+                background-color: aqua;
+                box-shadow: 0px 7px 7px ;
+                position: fixed;
+                top:30px;
+                right: 30px;
+                padding: 4px;
+                border-radius: 20px;
+            }
+            .dark{
+                background-color:#4e4c4c;
+                color: white;
+            }
+            .darker{
+                background-color:#332929;
+                color: white;
+            }
+        </style>
+        <script defer src="index.js"></script>
+    </head>
+    <body>
+        <h1 >Rusty Steele</h1>
+        <p >
+            Hi, I am a dog, WOOF!<br />
+            <img class="K9" src="/k9.jpg" />
+        </p>
+
+        
+        <p ><strong>I am looking for a job</strong></p>
+
+        <h1>About Me</h1>
+        
+        <div class="List">
+            <ul>
+                <li>I am very friendly</li>
+                <li>I was trained and have served as a K-9 dog</li>
+                <li>I am loyal</li>
+            </ul>
+        </div>
+        <div id="footer" class="footer">
+            <p >
+                Make sure to follow me on <br>
+                <a href="http://linkedin.com"><i class="fab fa-5x fa-linkedin" aria-hidden="true"></i></a>
+            </p>
+        </div>
+        <button id="theme-switcher" type="button" onclick="change()"><i id="fa-icon" class="far fas fa-moon fa-3x"></i></i></button>
+    </body>
+</html>
