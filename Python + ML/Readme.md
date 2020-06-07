@@ -44,11 +44,11 @@ This Section is where you gonna get all your resources for getting started with 
 
 2. Once you have known seen Naveen Reddy rant for a while, lets come to the actual stuff. How to setup a python environment and start to code in python. Given below are the links which you should follow, <b>IN ORDER</b> to become fimiliar with installing python, basic syntax of python as well as Data Types in python and the functions associated with them.
 <ul>
-	<li>[Install and Setup](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=1)</li>
-	<li>[Strings in Python](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2)</li>
-	<li>[Numeric Data Types in Python](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3)</li>
-	<li>[Lists, Tuples and Sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4)</li>
-	<li>[Dictionaries in Python](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5)</li>
+	<li>Install and Setup [here](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=1)</li>
+	<li>Strings in Python [here](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2)</li>
+	<li>Numeric Data Types in Python [here](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3)</li>
+	<li>Lists, Tuples and Sets [here](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4)</li>
+	<li>Dictionaries in Python [here](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5)</li>
 </ul>> 
 
 Once you are done with these... Well you are ready to complete your task 1 [here]().
