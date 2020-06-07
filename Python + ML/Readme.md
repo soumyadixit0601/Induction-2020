@@ -10,30 +10,25 @@ Here are some reasons why python will still on top of the best programming langu
 In Python, you don’t have to deal with a complex syntax, Its pretty much simple commands in english, it would seem. plus, It is free, open source and blessed with a large community.<br>
 
 <b>Portable & Extensible</b><br>
-
 The portable and extensible properties of Python allow you to perform cross-language operations seamlessly. Python is supported by most platforms present in the industry today ranging from Windows to Linux to Macintosh, Solaris, Play station, among others.<br>
 <br>
 Python’s extensibility features allow you to integrate Java as well as .NET components. You can also invoke C and C++ libraries.<br>
 <br>
 <b>Web Development</b><br>
-<br>
 Python has an array of frameworks for developing websites. The popular frameworks are Django, Flask, Pylons, etc. Since these frameworks are written in Python, it's the core reason which makes the code a lot faster and stable.<br>
 <br>
 You can also perform web scraping where you can fetch details from any other websites. You will also be impressed as many websites such as youtube, Instagram, The Washington post, bit bucket, Pinterest are built on these frameworks only.<br>
 <br>
 <b>Artificial Intelligence</b><br>
-<br>
 AI is the next huge development in the tech world. You can actually make a machine mimic the human brain which has the power to think, analyze and make decisions.
 Furthermore, libraries such as Keras and TensorFlow bring machine learning functionality into the mix. It gives the ability to learn without being explicitly programmed. Also, we have libraries such as OpenCV that helps computer vision or image recognition.<br>
 <br>
 <b>Big Data</b><br>
-<br>
 Python handles a lot of hassles of data. It supports parallel computing where you can use Python for Hadoop as well. In Python, you have a library called Pydoop and you can write a MapReduce program in Python and process data present in the HDFS cluster.
 
 There are other libraries such as Dask and Pyspark for big data processing. Therefore, Python is widely used for Big Data where you can easily process it!
 
 <b>Data Science</b>
-
 Python is the leading language of many data scientists. For years, academic scholars and private researchers were using the MATLAB language for scientific research but it all started to change with the release of Python numerical engines such as Numpy and Pandas.
 
 Python also deals with the tabular, matrix as well as statistical data and it even visualizes it with popular libraries such as Matplotlib and Seaborn.
