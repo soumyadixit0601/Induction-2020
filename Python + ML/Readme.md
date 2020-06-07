@@ -49,6 +49,6 @@ This Section is where you gonna get all your resources for getting started with 
 	<li><a href="https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3">Numeric Data Types in Python</a></li>
 	<li> <a href="https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4">Lists, Tuples and Sets</a></li>
 	<li><a href="https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5">Dictionaries in Python</a></li>
-</ul>> 
+</ul>
 
-Once you are done with these... Well you are ready to complete your task 1 [here]().
+> Once you are done with these... Well you are ready to complete your task 1 [here]().
