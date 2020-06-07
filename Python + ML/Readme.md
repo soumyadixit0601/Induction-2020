@@ -7,10 +7,11 @@ Python is today one of the most powerful programming languages and it will still
 Here are some reasons why python will still on top of the best programming languages in the next decade.<br>
 <br>
 <b>Python is simple, easy to learn and it is a high level language</b><br>
+<br>
 In Python, you don’t have to deal with a complex syntax, Its pretty much simple commands in english, it would seem. plus, It is free, open source and blessed with a large community.<br>
 <br>
 <b>Portable & Extensible</b><br>
-
+<br>
 The portable and extensible properties of Python allow you to perform cross-language operations seamlessly. Python is supported by most platforms present in the industry today ranging from Windows to Linux to Macintosh, Solaris, Play station, among others.<br>
 <br>
 Python’s extensibility features allow you to integrate Java as well as .NET components. You can also invoke C and C++ libraries.<br>
