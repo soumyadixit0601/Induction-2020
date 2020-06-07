@@ -51,4 +51,4 @@ This Section is where you gonna get all your resources for getting started with 
 	<li><a href="https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5">Dictionaries in Python</a></li>
 </ul>
 
-> Once you are done with these... Well you are ready to complete your task 1 [here]().
+> Once you are done with these... Well you are ready to complete your task 1 [here](https://github.com/EnigmaVSSUT/Induction-2020/blob/master/Python%20+%20ML/Task%201/Instructions.md).
