@@ -7,9 +7,11 @@ Python is today one of the most powerful programming languages and it will still
 Here are some reasons why python will still on top of the best programming languages in the next decade.<br>
 <br>
 <b>Python is simple, easy to learn and it is a high level language</b><br>
+<br>
 In Python, you don’t have to deal with a complex syntax, Its pretty much simple commands in english, it would seem. plus, It is free, open source and blessed with a large community.<br>
 <br>
 <b>Portable & Extensible</b><br>
+<br>
 The portable and extensible properties of Python allow you to perform cross-language operations seamlessly. Python is supported by most platforms present in the industry today ranging from Windows to Linux to Macintosh, Solaris, Play station, among others.<br>
 <br>
 Python’s extensibility features allow you to integrate Java as well as .NET components. You can also invoke C and C++ libraries.<br>
@@ -34,3 +36,19 @@ Python is the leading language of many data scientists. For years, academic scho
 Python also deals with the tabular, matrix as well as statistical data and it even visualizes it with popular libraries such as Matplotlib and Seaborn.
 
 
+so <h3><b>HOW TO GET STARTED?</b></h3><br>
+
+This Section is where you gonna get all your resources for getting started with programming in python.
+
+1. [Here](https://www.youtube.com/watch?v=hEgO047GxaQ&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=2)'s a link to getting started with python.
+
+2. Once you have known seen Naveen Reddy rant for a while, lets come to the actual stuff. How to setup a python environment and start to code in python. Given below are the links which you should follow, <b>IN ORDER</b> to become fimiliar with installing python, basic syntax of python as well as Data Types in python and the functions associated with them.
+<ul>
+	<li>[Install and Setup](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=1)</li>
+	<li>[Strings in Python](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2)</li>
+	<li>[Numeric Data Types in Python](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3)</li>
+	<li>[Lists, Tuples and Sets](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4)</li>
+	<li>[Dictionaries in Python](https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5)</li>
+</ul>> 
+
+Once you are done with these... Well you are ready to complete your task 1 [here]().
